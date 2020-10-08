@@ -1,0 +1,10 @@
+Ian Higgins
+
+HW3
+
+1.	
+	Solve 2.5 V = 5 V * x / (15 kOhms + x)
+	x = 15 kOhms
+
+2.	
+	
